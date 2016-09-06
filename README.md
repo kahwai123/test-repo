@@ -36,6 +36,8 @@ The courses comprising the Data Science Specialization are:
 * Practical Machine Learning
 * Developing Data Products
 
+Git is easy. Git is fun. Thanks Linus!
+
 ![Course Dependency](dst_courses.png)
 
 *Figure 1 Course dependency diagram*
@@ -45,3 +47,5 @@ The courses comprising the Data Science Specialization are:
 courseDescripTop
 
 [jhu]: http://www.jhu.edu
+
+
